@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Sulfur Dioxide
+1,ABS plastic,D - Poor,Sulfur Dioxide
+2,Acetal (Delrin®),B - Good,Sulfur Dioxide
+3,Aluminum,B - Good,Sulfur Dioxide
+4,Brass,D - Poor,Sulfur Dioxide
+5,Bronze,B - Good,Sulfur Dioxide
+6,Buna N (Nitrile),D - Poor,Sulfur Dioxide
+7,Carbon graphite,A - Excellent,Sulfur Dioxide
+8,Carbon Steel,D - Poor,Sulfur Dioxide
+9,Carpenter 20,B - Good,Sulfur Dioxide
+10,Cast iron,N/A,Sulfur Dioxide
+11,Ceramic Al203,N/A,Sulfur Dioxide
+12,Ceramic magnet,N/A,Sulfur Dioxide
+13,ChemRaz (FFKM),A - Excellent,Sulfur Dioxide
+14,Copper,B - Good,Sulfur Dioxide
+15,CPVC,A2 - Excellent,Sulfur Dioxide
+16,EPDM,A2 - Excellent,Sulfur Dioxide
+17,Epoxy,A1 - Excellent,Sulfur Dioxide
+18,Fluorocarbon (FKM),A - Excellent,Sulfur Dioxide
+19,Hastelloy-C®,C - Fair,Sulfur Dioxide
+20,Hypalon®,C - Fair,Sulfur Dioxide
+21,Hytrel®,C - Fair,Sulfur Dioxide
+22,Kalrez,A - Excellent,Sulfur Dioxide
+23,Kel-F®,A - Excellent,Sulfur Dioxide
+24,LDPE,B1 - Good,Sulfur Dioxide
+25,Natural rubber,N/A,Sulfur Dioxide
+26,Neoprene,B - Good,Sulfur Dioxide
+27,NORYL®,A - Excellent,Sulfur Dioxide
+28,Nylon,C1 - Fair,Sulfur Dioxide
+29,Polycarbonate,N/A,Sulfur Dioxide
+30,Polyetherether Ketone (PEEK),A - Excellent,Sulfur Dioxide
+31,Polypropylene,A1 - Excellent,Sulfur Dioxide
+32,Polyurethane,D - Poor,Sulfur Dioxide
+33,PPS (Ryton®),A - Excellent,Sulfur Dioxide
+34,PTFE,A - Excellent,Sulfur Dioxide
+35,PVC,A1 - Excellent,Sulfur Dioxide
+36,PVDF (Kynar®),A - Excellent,Sulfur Dioxide
+37,Silicone,B - Good,Sulfur Dioxide
+38,stainless steel - 304,D - Poor,Sulfur Dioxide
+39,stainless steel - 316,A1 - Excellent,Sulfur Dioxide
+40,Titanium,A - Excellent,Sulfur Dioxide
+41,Tygon®,C - Fair,Sulfur Dioxide
+42,Viton®,A - Excellent,Sulfur Dioxide

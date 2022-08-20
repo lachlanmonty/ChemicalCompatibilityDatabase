@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Ozone
+1,ABS plastic,A - Excellent,Ozone
+2,Acetal (Delrin®),B - Good,Ozone
+3,Aluminum,A - Excellent,Ozone
+4,Brass,D - Poor,Ozone
+5,Bronze,B2 - Good,Ozone
+6,Buna N (Nitrile),D - Poor,Ozone
+7,Carbon graphite,A - Excellent,Ozone
+8,Carbon Steel,D - Poor,Ozone
+9,Carpenter 20,A - Excellent,Ozone
+10,Cast iron,C - Fair,Ozone
+11,Ceramic Al203,A - Excellent,Ozone
+12,Ceramic magnet,N/A,Ozone
+13,ChemRaz (FFKM),A - Excellent,Ozone
+14,Copper,B - Good,Ozone
+15,CPVC,A - Excellent,Ozone
+16,EPDM,A - Excellent,Ozone
+17,Epoxy,A - Excellent,Ozone
+18,Fluorocarbon (FKM),A - Excellent,Ozone
+19,Hastelloy-C®,B - Good,Ozone
+20,Hypalon®,B - Good,Ozone
+21,Hytrel®,D - Poor,Ozone
+22,Kalrez,A - Excellent,Ozone
+23,Kel-F®,D - Poor,Ozone
+24,LDPE,A2 - Excellent,Ozone
+25,Natural rubber,B - Good,Ozone
+26,Neoprene,D - Poor,Ozone
+27,NORYL®,A1 - Excellent,Ozone
+28,Nylon,B2 - Good,Ozone
+29,Polycarbonate,N/A,Ozone
+30,Polyetherether Ketone (PEEK),A - Excellent,Ozone
+31,Polypropylene,A2 - Excellent,Ozone
+32,Polyurethane,D - Poor,Ozone
+33,PPS (Ryton®),A - Excellent,Ozone
+34,PTFE,A1 - Excellent,Ozone
+35,PVC,B - Good,Ozone
+36,PVDF (Kynar®),B - Good,Ozone
+37,Silicone,B - Good,Ozone
+38,stainless steel - 304,B - Good,Ozone
+39,stainless steel - 316,A - Excellent,Ozone
+40,Titanium,A - Excellent,Ozone
+41,Tygon®,B - Good,Ozone
+42,Viton®,A - Excellent,Ozone

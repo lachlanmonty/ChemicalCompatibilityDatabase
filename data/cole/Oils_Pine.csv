@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Oils:Pine
+1,ABS plastic,D - Poor,Oils:Pine
+2,Acetal (Delrin®),A - Excellent,Oils:Pine
+3,Aluminum,A - Excellent,Oils:Pine
+4,Brass,N/A,Oils:Pine
+5,Bronze,A - Excellent,Oils:Pine
+6,Buna N (Nitrile),D - Poor,Oils:Pine
+7,Carbon graphite,N/A,Oils:Pine
+8,Carbon Steel,N/A,Oils:Pine
+9,Carpenter 20,D - Poor,Oils:Pine
+10,Cast iron,C - Fair,Oils:Pine
+11,Ceramic Al203,N/A,Oils:Pine
+12,Ceramic magnet,N/A,Oils:Pine
+13,ChemRaz (FFKM),A - Excellent,Oils:Pine
+14,Copper,N/A,Oils:Pine
+15,CPVC,A - Excellent,Oils:Pine
+16,EPDM,D - Poor,Oils:Pine
+17,Epoxy,A - Excellent,Oils:Pine
+18,Fluorocarbon (FKM),A - Excellent,Oils:Pine
+19,Hastelloy-C®,N/A,Oils:Pine
+20,Hypalon®,D - Poor,Oils:Pine
+21,Hytrel®,N/A,Oils:Pine
+22,Kalrez,A - Excellent,Oils:Pine
+23,Kel-F®,N/A,Oils:Pine
+24,LDPE,D - Poor,Oils:Pine
+25,Natural rubber,D - Poor,Oils:Pine
+26,Neoprene,D - Poor,Oils:Pine
+27,NORYL®,N/A,Oils:Pine
+28,Nylon,A - Excellent,Oils:Pine
+29,Polycarbonate,A - Excellent,Oils:Pine
+30,Polyetherether Ketone (PEEK),N/A,Oils:Pine
+31,Polypropylene,B - Good,Oils:Pine
+32,Polyurethane,A - Excellent,Oils:Pine
+33,PPS (Ryton®),N/A,Oils:Pine
+34,PTFE,A - Excellent,Oils:Pine
+35,PVC,D - Poor,Oils:Pine
+36,PVDF (Kynar®),A - Excellent,Oils:Pine
+37,Silicone,D - Poor,Oils:Pine
+38,stainless steel - 304,A - Excellent,Oils:Pine
+39,stainless steel - 316,A - Excellent,Oils:Pine
+40,Titanium,A - Excellent,Oils:Pine
+41,Tygon®,D - Poor,Oils:Pine
+42,Viton®,A - Excellent,Oils:Pine

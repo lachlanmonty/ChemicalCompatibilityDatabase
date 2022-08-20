@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Ferric Nitrate
+1,ABS plastic,A - Excellent,Ferric Nitrate
+2,Acetal (Delrin®),D - Poor,Ferric Nitrate
+3,Aluminum,D - Poor,Ferric Nitrate
+4,Brass,D - Poor,Ferric Nitrate
+5,Bronze,D - Poor,Ferric Nitrate
+6,Buna N (Nitrile),A - Excellent,Ferric Nitrate
+7,Carbon graphite,A - Excellent,Ferric Nitrate
+8,Carbon Steel,D - Poor,Ferric Nitrate
+9,Carpenter 20,D - Poor,Ferric Nitrate
+10,Cast iron,D - Poor,Ferric Nitrate
+11,Ceramic Al203,N/A,Ferric Nitrate
+12,Ceramic magnet,N/A,Ferric Nitrate
+13,ChemRaz (FFKM),A - Excellent,Ferric Nitrate
+14,Copper,D - Poor,Ferric Nitrate
+15,CPVC,A - Excellent,Ferric Nitrate
+16,EPDM,A - Excellent,Ferric Nitrate
+17,Epoxy,A - Excellent,Ferric Nitrate
+18,Fluorocarbon (FKM),A - Excellent,Ferric Nitrate
+19,Hastelloy-C®,B2 - Good,Ferric Nitrate
+20,Hypalon®,B - Good,Ferric Nitrate
+21,Hytrel®,C - Fair,Ferric Nitrate
+22,Kalrez,A - Excellent,Ferric Nitrate
+23,Kel-F®,A1 - Excellent,Ferric Nitrate
+24,LDPE,A1 - Excellent,Ferric Nitrate
+25,Natural rubber,A - Excellent,Ferric Nitrate
+26,Neoprene,B - Good,Ferric Nitrate
+27,NORYL®,A2 - Excellent,Ferric Nitrate
+28,Nylon,A - Excellent,Ferric Nitrate
+29,Polycarbonate,A2 - Excellent,Ferric Nitrate
+30,Polyetherether Ketone (PEEK),B - Good,Ferric Nitrate
+31,Polypropylene,A - Excellent,Ferric Nitrate
+32,Polyurethane,A - Excellent,Ferric Nitrate
+33,PPS (Ryton®),A - Excellent,Ferric Nitrate
+34,PTFE,A - Excellent,Ferric Nitrate
+35,PVC,A - Excellent,Ferric Nitrate
+36,PVDF (Kynar®),A - Excellent,Ferric Nitrate
+37,Silicone,B - Good,Ferric Nitrate
+38,stainless steel - 304,D - Poor,Ferric Nitrate
+39,stainless steel - 316,D - Poor,Ferric Nitrate
+40,Titanium,A - Excellent,Ferric Nitrate
+41,Tygon®,B - Good,Ferric Nitrate
+42,Viton®,A - Excellent,Ferric Nitrate

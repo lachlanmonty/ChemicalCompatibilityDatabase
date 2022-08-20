@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Bromine
+1,ABS plastic,D - Poor,Bromine
+2,Acetal (Delrin®),D - Poor,Bromine
+3,Aluminum,D - Poor,Bromine
+4,Brass,N/A,Bromine
+5,Bronze,D - Poor,Bromine
+6,Buna N (Nitrile),D - Poor,Bromine
+7,Carbon graphite,D - Poor,Bromine
+8,Carbon Steel,D - Poor,Bromine
+9,Carpenter 20,D - Poor,Bromine
+10,Cast iron,N/A,Bromine
+11,Ceramic Al203,A - Excellent,Bromine
+12,Ceramic magnet,A - Excellent,Bromine
+13,ChemRaz (FFKM),A - Excellent,Bromine
+14,Copper,N/A,Bromine
+15,CPVC,D - Poor,Bromine
+16,EPDM,D - Poor,Bromine
+17,Epoxy,D - Poor,Bromine
+18,Fluorocarbon (FKM),A - Excellent,Bromine
+19,Hastelloy-C®,A - Excellent,Bromine
+20,Hypalon®,D - Poor,Bromine
+21,Hytrel®,D - Poor,Bromine
+22,Kalrez,A - Excellent,Bromine
+23,Kel-F®,A - Excellent,Bromine
+24,LDPE,D - Poor,Bromine
+25,Natural rubber,D - Poor,Bromine
+26,Neoprene,D - Poor,Bromine
+27,NORYL®,A1 - Excellent,Bromine
+28,Nylon,D - Poor,Bromine
+29,Polycarbonate,C1 - Fair,Bromine
+30,Polyetherether Ketone (PEEK),D - Poor,Bromine
+31,Polypropylene,D - Poor,Bromine
+32,Polyurethane,D - Poor,Bromine
+33,PPS (Ryton®),D - Poor,Bromine
+34,PTFE,A - Excellent,Bromine
+35,PVC,C1 - Fair,Bromine
+36,PVDF (Kynar®),A - Excellent,Bromine
+37,Silicone,D - Poor,Bromine
+38,stainless steel - 304,D - Poor,Bromine
+39,stainless steel - 316,D - Poor,Bromine
+40,Titanium,D - Poor,Bromine
+41,Tygon®,B - Good,Bromine
+42,Viton®,A - Excellent,Bromine

@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Petroleum
+1,ABS plastic,B - Good,Petroleum
+2,Acetal (Delrin®),B - Good,Petroleum
+3,Aluminum,D - Poor,Petroleum
+4,Brass,N/A,Petroleum
+5,Bronze,A1 - Excellent,Petroleum
+6,Buna N (Nitrile),A2 - Excellent,Petroleum
+7,Carbon graphite,A2 - Excellent,Petroleum
+8,Carbon Steel,C - Fair,Petroleum
+9,Carpenter 20,N/A,Petroleum
+10,Cast iron,N/A,Petroleum
+11,Ceramic Al203,N/A,Petroleum
+12,Ceramic magnet,N/A,Petroleum
+13,ChemRaz (FFKM),N/A,Petroleum
+14,Copper,B - Good,Petroleum
+15,CPVC,A2 - Excellent,Petroleum
+16,EPDM,D - Poor,Petroleum
+17,Epoxy,A2 - Excellent,Petroleum
+18,Fluorocarbon (FKM),A - Excellent,Petroleum
+19,Hastelloy-C®,N/A,Petroleum
+20,Hypalon®,D - Poor,Petroleum
+21,Hytrel®,B - Good,Petroleum
+22,Kalrez,A - Excellent,Petroleum
+23,Kel-F®,N/A,Petroleum
+24,LDPE,C1 - Fair,Petroleum
+25,Natural rubber,D - Poor,Petroleum
+26,Neoprene,B1 - Good,Petroleum
+27,NORYL®,D - Poor,Petroleum
+28,Nylon,A1 - Excellent,Petroleum
+29,Polycarbonate,N/A,Petroleum
+30,Polyetherether Ketone (PEEK),A - Excellent,Petroleum
+31,Polypropylene,B1 - Good,Petroleum
+32,Polyurethane,B - Good,Petroleum
+33,PPS (Ryton®),N/A,Petroleum
+34,PTFE,A2 - Excellent,Petroleum
+35,PVC,N/A,Petroleum
+36,PVDF (Kynar®),A - Excellent,Petroleum
+37,Silicone,D - Poor,Petroleum
+38,stainless steel - 304,A1 - Excellent,Petroleum
+39,stainless steel - 316,A1 - Excellent,Petroleum
+40,Titanium,A1 - Excellent,Petroleum
+41,Tygon®,N/A,Petroleum
+42,Viton®,A2 - Excellent,Petroleum

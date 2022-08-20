@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Cresols
+1,ABS plastic,D - Poor,Cresols
+2,Acetal (Delrin®),D - Poor,Cresols
+3,Aluminum,A - Excellent,Cresols
+4,Brass,N/A,Cresols
+5,Bronze,A - Excellent,Cresols
+6,Buna N (Nitrile),D - Poor,Cresols
+7,Carbon graphite,A - Excellent,Cresols
+8,Carbon Steel,A - Excellent,Cresols
+9,Carpenter 20,A2 - Excellent,Cresols
+10,Cast iron,C - Fair,Cresols
+11,Ceramic Al203,N/A,Cresols
+12,Ceramic magnet,N/A,Cresols
+13,ChemRaz (FFKM),N/A,Cresols
+14,Copper,A - Excellent,Cresols
+15,CPVC,D - Poor,Cresols
+16,EPDM,D - Poor,Cresols
+17,Epoxy,A1 - Excellent,Cresols
+18,Fluorocarbon (FKM),A - Excellent,Cresols
+19,Hastelloy-C®,B2 - Good,Cresols
+20,Hypalon®,D - Poor,Cresols
+21,Hytrel®,D - Poor,Cresols
+22,Kalrez,A - Excellent,Cresols
+23,Kel-F®,A1 - Excellent,Cresols
+24,LDPE,C1 - Fair,Cresols
+25,Natural rubber,D - Poor,Cresols
+26,Neoprene,D - Poor,Cresols
+27,NORYL®,D - Poor,Cresols
+28,Nylon,D - Poor,Cresols
+29,Polycarbonate,D - Poor,Cresols
+30,Polyetherether Ketone (PEEK),A - Excellent,Cresols
+31,Polypropylene,D - Poor,Cresols
+32,Polyurethane,D - Poor,Cresols
+33,PPS (Ryton®),A - Excellent,Cresols
+34,PTFE,N/A,Cresols
+35,PVC,D - Poor,Cresols
+36,PVDF (Kynar®),A2 - Excellent,Cresols
+37,Silicone,D - Poor,Cresols
+38,stainless steel - 304,A2 - Excellent,Cresols
+39,stainless steel - 316,A - Excellent,Cresols
+40,Titanium,B - Good,Cresols
+41,Tygon®,D - Poor,Cresols
+42,Viton®,A - Excellent,Cresols

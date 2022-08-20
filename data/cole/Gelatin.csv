@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Gelatin
+1,ABS plastic,D - Poor,Gelatin
+2,Acetal (Delrin®),A - Excellent,Gelatin
+3,Aluminum,A2 - Excellent,Gelatin
+4,Brass,N/A,Gelatin
+5,Bronze,A2 - Excellent,Gelatin
+6,Buna N (Nitrile),A1 - Excellent,Gelatin
+7,Carbon graphite,A2 - Excellent,Gelatin
+8,Carbon Steel,B - Good,Gelatin
+9,Carpenter 20,A - Excellent,Gelatin
+10,Cast iron,A - Excellent,Gelatin
+11,Ceramic Al203,N/A,Gelatin
+12,Ceramic magnet,N/A,Gelatin
+13,ChemRaz (FFKM),N/A,Gelatin
+14,Copper,B - Good,Gelatin
+15,CPVC,C - Fair,Gelatin
+16,EPDM,D - Poor,Gelatin
+17,Epoxy,A2 - Excellent,Gelatin
+18,Fluorocarbon (FKM),A - Excellent,Gelatin
+19,Hastelloy-C®,A - Excellent,Gelatin
+20,Hypalon®,A - Excellent,Gelatin
+21,Hytrel®,N/A,Gelatin
+22,Kalrez,A - Excellent,Gelatin
+23,Kel-F®,A2 - Excellent,Gelatin
+24,LDPE,N/A,Gelatin
+25,Natural rubber,D - Poor,Gelatin
+26,Neoprene,B - Good,Gelatin
+27,NORYL®,D - Poor,Gelatin
+28,Nylon,A2 - Excellent,Gelatin
+29,Polycarbonate,A2 - Excellent,Gelatin
+30,Polyetherether Ketone (PEEK),N/A,Gelatin
+31,Polypropylene,C1 - Fair,Gelatin
+32,Polyurethane,N/A,Gelatin
+33,PPS (Ryton®),A - Excellent,Gelatin
+34,PTFE,A - Excellent,Gelatin
+35,PVC,C2 - Fair,Gelatin
+36,PVDF (Kynar®),A - Excellent,Gelatin
+37,Silicone,D - Poor,Gelatin
+38,stainless steel - 304,A1 - Excellent,Gelatin
+39,stainless steel - 316,A2 - Excellent,Gelatin
+40,Titanium,A - Excellent,Gelatin
+41,Tygon®,C - Fair,Gelatin
+42,Viton®,A1 - Excellent,Gelatin

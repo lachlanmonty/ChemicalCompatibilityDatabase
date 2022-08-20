@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Sea Water
+1,ABS plastic,N/A,Sea Water
+2,Acetal (Delrin®),A - Excellent,Sea Water
+3,Aluminum,B - Good,Sea Water
+4,Brass,D - Poor,Sea Water
+5,Bronze,A - Excellent,Sea Water
+6,Buna N (Nitrile),A2 - Excellent,Sea Water
+7,Carbon graphite,A - Excellent,Sea Water
+8,Carbon Steel,D - Poor,Sea Water
+9,Carpenter 20,A - Excellent,Sea Water
+10,Cast iron,D - Poor,Sea Water
+11,Ceramic Al203,N/A,Sea Water
+12,Ceramic magnet,N/A,Sea Water
+13,ChemRaz (FFKM),B - Good,Sea Water
+14,Copper,B - Good,Sea Water
+15,CPVC,A - Excellent,Sea Water
+16,EPDM,A2 - Excellent,Sea Water
+17,Epoxy,A - Excellent,Sea Water
+18,Fluorocarbon (FKM),A - Excellent,Sea Water
+19,Hastelloy-C®,A - Excellent,Sea Water
+20,Hypalon®,A - Excellent,Sea Water
+21,Hytrel®,A - Excellent,Sea Water
+22,Kalrez,A - Excellent,Sea Water
+23,Kel-F®,A - Excellent,Sea Water
+24,LDPE,A2 - Excellent,Sea Water
+25,Natural rubber,A1 - Excellent,Sea Water
+26,Neoprene,B2 - Good,Sea Water
+27,NORYL®,A1 - Excellent,Sea Water
+28,Nylon,A2 - Excellent,Sea Water
+29,Polycarbonate,A2 - Excellent,Sea Water
+30,Polyetherether Ketone (PEEK),A - Excellent,Sea Water
+31,Polypropylene,A - Excellent,Sea Water
+32,Polyurethane,D - Poor,Sea Water
+33,PPS (Ryton®),A - Excellent,Sea Water
+34,PTFE,A - Excellent,Sea Water
+35,PVC,A2 - Excellent,Sea Water
+36,PVDF (Kynar®),A - Excellent,Sea Water
+37,Silicone,A1 - Excellent,Sea Water
+38,stainless steel - 304,C - Fair,Sea Water
+39,stainless steel - 316,C - Fair,Sea Water
+40,Titanium,A - Excellent,Sea Water
+41,Tygon®,N/A,Sea Water
+42,Viton®,A - Excellent,Sea Water

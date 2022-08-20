@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Urea
+1,ABS plastic,D - Poor,Urea
+2,Acetal (Delrin®),A2 - Excellent,Urea
+3,Aluminum,A - Excellent,Urea
+4,Brass,D - Poor,Urea
+5,Bronze,A - Excellent,Urea
+6,Buna N (Nitrile),N/A,Urea
+7,Carbon graphite,A - Excellent,Urea
+8,Carbon Steel,B - Good,Urea
+9,Carpenter 20,C - Fair,Urea
+10,Cast iron,N/A,Urea
+11,Ceramic Al203,A - Excellent,Urea
+12,Ceramic magnet,N/A,Urea
+13,ChemRaz (FFKM),A - Excellent,Urea
+14,Copper,B - Good,Urea
+15,CPVC,A - Excellent,Urea
+16,EPDM,D - Poor,Urea
+17,Epoxy,B - Good,Urea
+18,Fluorocarbon (FKM),A - Excellent,Urea
+19,Hastelloy-C®,B - Good,Urea
+20,Hypalon®,D - Poor,Urea
+21,Hytrel®,N/A,Urea
+22,Kalrez,A - Excellent,Urea
+23,Kel-F®,A - Excellent,Urea
+24,LDPE,D - Poor,Urea
+25,Natural rubber,D - Poor,Urea
+26,Neoprene,D - Poor,Urea
+27,NORYL®,D - Poor,Urea
+28,Nylon,B - Good,Urea
+29,Polycarbonate,D - Poor,Urea
+30,Polyetherether Ketone (PEEK),A - Excellent,Urea
+31,Polypropylene,D - Poor,Urea
+32,Polyurethane,D - Poor,Urea
+33,PPS (Ryton®),A - Excellent,Urea
+34,PTFE,A - Excellent,Urea
+35,PVC,D - Poor,Urea
+36,PVDF (Kynar®),A - Excellent,Urea
+37,Silicone,D - Poor,Urea
+38,stainless steel - 304,A - Excellent,Urea
+39,stainless steel - 316,A - Excellent,Urea
+40,Titanium,B - Good,Urea
+41,Tygon®,B - Good,Urea
+42,Viton®,A - Excellent,Urea

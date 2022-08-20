@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Methyl Chloride
+1,ABS plastic,D - Poor,Methyl Chloride
+2,Acetal (Delrin®),B - Good,Methyl Chloride
+3,Aluminum,D - Poor,Methyl Chloride
+4,Brass,A - Excellent,Methyl Chloride
+5,Bronze,B2 - Good,Methyl Chloride
+6,Buna N (Nitrile),D - Poor,Methyl Chloride
+7,Carbon graphite,A - Excellent,Methyl Chloride
+8,Carbon Steel,D - Poor,Methyl Chloride
+9,Carpenter 20,C - Fair,Methyl Chloride
+10,Cast iron,D - Poor,Methyl Chloride
+11,Ceramic Al203,N/A,Methyl Chloride
+12,Ceramic magnet,N/A,Methyl Chloride
+13,ChemRaz (FFKM),A - Excellent,Methyl Chloride
+14,Copper,N/A,Methyl Chloride
+15,CPVC,D - Poor,Methyl Chloride
+16,EPDM,D - Poor,Methyl Chloride
+17,Epoxy,A - Excellent,Methyl Chloride
+18,Fluorocarbon (FKM),A - Excellent,Methyl Chloride
+19,Hastelloy-C®,B - Good,Methyl Chloride
+20,Hypalon®,D - Poor,Methyl Chloride
+21,Hytrel®,N/A,Methyl Chloride
+22,Kalrez,A - Excellent,Methyl Chloride
+23,Kel-F®,A1 - Excellent,Methyl Chloride
+24,LDPE,C1 - Fair,Methyl Chloride
+25,Natural rubber,D - Poor,Methyl Chloride
+26,Neoprene,D - Poor,Methyl Chloride
+27,NORYL®,D - Poor,Methyl Chloride
+28,Nylon,B1 - Good,Methyl Chloride
+29,Polycarbonate,D - Poor,Methyl Chloride
+30,Polyetherether Ketone (PEEK),N/A,Methyl Chloride
+31,Polypropylene,D - Poor,Methyl Chloride
+32,Polyurethane,D - Poor,Methyl Chloride
+33,PPS (Ryton®),B - Good,Methyl Chloride
+34,PTFE,A - Excellent,Methyl Chloride
+35,PVC,D - Poor,Methyl Chloride
+36,PVDF (Kynar®),A - Excellent,Methyl Chloride
+37,Silicone,D - Poor,Methyl Chloride
+38,stainless steel - 304,A - Excellent,Methyl Chloride
+39,stainless steel - 316,A - Excellent,Methyl Chloride
+40,Titanium,A - Excellent,Methyl Chloride
+41,Tygon®,D - Poor,Methyl Chloride
+42,Viton®,A1 - Excellent,Methyl Chloride

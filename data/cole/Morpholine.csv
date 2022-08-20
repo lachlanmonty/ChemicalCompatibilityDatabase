@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Morpholine
+1,ABS plastic,C - Fair,Morpholine
+2,Acetal (Delrin®),N/A,Morpholine
+3,Aluminum,A1 - Excellent,Morpholine
+4,Brass,N/A,Morpholine
+5,Bronze,N/A,Morpholine
+6,Buna N (Nitrile),D - Poor,Morpholine
+7,Carbon graphite,A1 - Excellent,Morpholine
+8,Carbon Steel,A - Excellent,Morpholine
+9,Carpenter 20,N/A,Morpholine
+10,Cast iron,N/A,Morpholine
+11,Ceramic Al203,N/A,Morpholine
+12,Ceramic magnet,N/A,Morpholine
+13,ChemRaz (FFKM),A - Excellent,Morpholine
+14,Copper,N/A,Morpholine
+15,CPVC,N/A,Morpholine
+16,EPDM,D - Poor,Morpholine
+17,Epoxy,N/A,Morpholine
+18,Fluorocarbon (FKM),N/A,Morpholine
+19,Hastelloy-C®,A1 - Excellent,Morpholine
+20,Hypalon®,N/A,Morpholine
+21,Hytrel®,N/A,Morpholine
+22,Kalrez,A - Excellent,Morpholine
+23,Kel-F®,N/A,Morpholine
+24,LDPE,N/A,Morpholine
+25,Natural rubber,A1 - Excellent,Morpholine
+26,Neoprene,D - Poor,Morpholine
+27,NORYL®,D - Poor,Morpholine
+28,Nylon,A2 - Excellent,Morpholine
+29,Polycarbonate,D - Poor,Morpholine
+30,Polyetherether Ketone (PEEK),N/A,Morpholine
+31,Polypropylene,B2 - Good,Morpholine
+32,Polyurethane,N/A,Morpholine
+33,PPS (Ryton®),C - Fair,Morpholine
+34,PTFE,A2 - Excellent,Morpholine
+35,PVC,N/A,Morpholine
+36,PVDF (Kynar®),B1 - Good,Morpholine
+37,Silicone,N/A,Morpholine
+38,stainless steel - 304,N/A,Morpholine
+39,stainless steel - 316,A1 - Excellent,Morpholine
+40,Titanium,N/A,Morpholine
+41,Tygon®,N/A,Morpholine
+42,Viton®,N/A,Morpholine

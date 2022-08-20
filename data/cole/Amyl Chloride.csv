@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Amyl Chloride
+1,ABS plastic,D - Poor,Amyl Chloride
+2,Acetal (Delrin®),A - Excellent,Amyl Chloride
+3,Aluminum,A1 - Excellent,Amyl Chloride
+4,Brass,N/A,Amyl Chloride
+5,Bronze,A - Excellent,Amyl Chloride
+6,Buna N (Nitrile),D - Poor,Amyl Chloride
+7,Carbon graphite,A - Excellent,Amyl Chloride
+8,Carbon Steel,A - Excellent,Amyl Chloride
+9,Carpenter 20,A2 - Excellent,Amyl Chloride
+10,Cast iron,A - Excellent,Amyl Chloride
+11,Ceramic Al203,A - Excellent,Amyl Chloride
+12,Ceramic magnet,N/A,Amyl Chloride
+13,ChemRaz (FFKM),A - Excellent,Amyl Chloride
+14,Copper,A - Excellent,Amyl Chloride
+15,CPVC,C - Fair,Amyl Chloride
+16,EPDM,D - Poor,Amyl Chloride
+17,Epoxy,A1 - Excellent,Amyl Chloride
+18,Fluorocarbon (FKM),A - Excellent,Amyl Chloride
+19,Hastelloy-C®,A1 - Excellent,Amyl Chloride
+20,Hypalon®,D - Poor,Amyl Chloride
+21,Hytrel®,N/A,Amyl Chloride
+22,Kalrez,A - Excellent,Amyl Chloride
+23,Kel-F®,A - Excellent,Amyl Chloride
+24,LDPE,D - Poor,Amyl Chloride
+25,Natural rubber,D - Poor,Amyl Chloride
+26,Neoprene,D - Poor,Amyl Chloride
+27,NORYL®,D - Poor,Amyl Chloride
+28,Nylon,C1 - Fair,Amyl Chloride
+29,Polycarbonate,N/A,Amyl Chloride
+30,Polyetherether Ketone (PEEK),N/A,Amyl Chloride
+31,Polypropylene,D - Poor,Amyl Chloride
+32,Polyurethane,C - Fair,Amyl Chloride
+33,PPS (Ryton®),N/A,Amyl Chloride
+34,PTFE,A - Excellent,Amyl Chloride
+35,PVC,D - Poor,Amyl Chloride
+36,PVDF (Kynar®),A - Excellent,Amyl Chloride
+37,Silicone,D - Poor,Amyl Chloride
+38,stainless steel - 304,A2 - Excellent,Amyl Chloride
+39,stainless steel - 316,A2 - Excellent,Amyl Chloride
+40,Titanium,C - Fair,Amyl Chloride
+41,Tygon®,C - Fair,Amyl Chloride
+42,Viton®,B1 - Good,Amyl Chloride

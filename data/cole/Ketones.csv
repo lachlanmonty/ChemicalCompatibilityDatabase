@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Ketones
+1,ABS plastic,A - Excellent,Ketones
+2,Acetal (Delrin®),D - Poor,Ketones
+3,Aluminum,B - Good,Ketones
+4,Brass,N/A,Ketones
+5,Bronze,A - Excellent,Ketones
+6,Buna N (Nitrile),D - Poor,Ketones
+7,Carbon graphite,A - Excellent,Ketones
+8,Carbon Steel,B - Good,Ketones
+9,Carpenter 20,A - Excellent,Ketones
+10,Cast iron,N/A,Ketones
+11,Ceramic Al203,A - Excellent,Ketones
+12,Ceramic magnet,N/A,Ketones
+13,ChemRaz (FFKM),N/A,Ketones
+14,Copper,A - Excellent,Ketones
+15,CPVC,N/A,Ketones
+16,EPDM,A - Excellent,Ketones
+17,Epoxy,C - Fair,Ketones
+18,Fluorocarbon (FKM),D - Poor,Ketones
+19,Hastelloy-C®,A - Excellent,Ketones
+20,Hypalon®,N/A,Ketones
+21,Hytrel®,N/A,Ketones
+22,Kalrez,A - Excellent,Ketones
+23,Kel-F®,B1 - Good,Ketones
+24,LDPE,C1 - Fair,Ketones
+25,Natural rubber,A - Excellent,Ketones
+26,Neoprene,D - Poor,Ketones
+27,NORYL®,D - Poor,Ketones
+28,Nylon,A2 - Excellent,Ketones
+29,Polycarbonate,D - Poor,Ketones
+30,Polyetherether Ketone (PEEK),A - Excellent,Ketones
+31,Polypropylene,C - Fair,Ketones
+32,Polyurethane,D - Poor,Ketones
+33,PPS (Ryton®),A - Excellent,Ketones
+34,PTFE,A - Excellent,Ketones
+35,PVC,D - Poor,Ketones
+36,PVDF (Kynar®),C1 - Fair,Ketones
+37,Silicone,N/A,Ketones
+38,stainless steel - 304,A - Excellent,Ketones
+39,stainless steel - 316,A - Excellent,Ketones
+40,Titanium,A - Excellent,Ketones
+41,Tygon®,D - Poor,Ketones
+42,Viton®,D - Poor,Ketones

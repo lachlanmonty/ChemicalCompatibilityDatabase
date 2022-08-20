@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Trichloropropane
+1,ABS plastic,D - Poor,Trichloropropane
+2,Acetal (Delrin®),D - Poor,Trichloropropane
+3,Aluminum,D - Poor,Trichloropropane
+4,Brass,N/A,Trichloropropane
+5,Bronze,B - Good,Trichloropropane
+6,Buna N (Nitrile),D - Poor,Trichloropropane
+7,Carbon graphite,A - Excellent,Trichloropropane
+8,Carbon Steel,B - Good,Trichloropropane
+9,Carpenter 20,A - Excellent,Trichloropropane
+10,Cast iron,C - Fair,Trichloropropane
+11,Ceramic Al203,A - Excellent,Trichloropropane
+12,Ceramic magnet,A - Excellent,Trichloropropane
+13,ChemRaz (FFKM),A - Excellent,Trichloropropane
+14,Copper,A1 - Excellent,Trichloropropane
+15,CPVC,D - Poor,Trichloropropane
+16,EPDM,D - Poor,Trichloropropane
+17,Epoxy,C1 - Fair,Trichloropropane
+18,Fluorocarbon (FKM),D - Poor,Trichloropropane
+19,Hastelloy-C®,A - Excellent,Trichloropropane
+20,Hypalon®,D - Poor,Trichloropropane
+21,Hytrel®,C - Fair,Trichloropropane
+22,Kalrez,A - Excellent,Trichloropropane
+23,Kel-F®,A - Excellent,Trichloropropane
+24,LDPE,D - Poor,Trichloropropane
+25,Natural rubber,D - Poor,Trichloropropane
+26,Neoprene,D - Poor,Trichloropropane
+27,NORYL®,D - Poor,Trichloropropane
+28,Nylon,C1 - Fair,Trichloropropane
+29,Polycarbonate,N/A,Trichloropropane
+30,Polyetherether Ketone (PEEK),A - Excellent,Trichloropropane
+31,Polypropylene,C1 - Fair,Trichloropropane
+32,Polyurethane,D - Poor,Trichloropropane
+33,PPS (Ryton®),A1 - Excellent,Trichloropropane
+34,PTFE,A - Excellent,Trichloropropane
+35,PVC,D - Poor,Trichloropropane
+36,PVDF (Kynar®),B - Good,Trichloropropane
+37,Silicone,D - Poor,Trichloropropane
+38,stainless steel - 304,B - Good,Trichloropropane
+39,stainless steel - 316,B - Good,Trichloropropane
+40,Titanium,A - Excellent,Trichloropropane
+41,Tygon®,N/A,Trichloropropane
+42,Viton®,A - Excellent,Trichloropropane

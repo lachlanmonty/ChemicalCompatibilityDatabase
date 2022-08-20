@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Iodine
+1,ABS plastic,D - Poor,Iodine
+2,Acetal (Delrin®),D - Poor,Iodine
+3,Aluminum,A - Excellent,Iodine
+4,Brass,N/A,Iodine
+5,Bronze,A - Excellent,Iodine
+6,Buna N (Nitrile),B - Good,Iodine
+7,Carbon graphite,D - Poor,Iodine
+8,Carbon Steel,D - Poor,Iodine
+9,Carpenter 20,D - Poor,Iodine
+10,Cast iron,D - Poor,Iodine
+11,Ceramic Al203,N/A,Iodine
+12,Ceramic magnet,N/A,Iodine
+13,ChemRaz (FFKM),A - Excellent,Iodine
+14,Copper,D - Poor,Iodine
+15,CPVC,D - Poor,Iodine
+16,EPDM,B - Good,Iodine
+17,Epoxy,C - Fair,Iodine
+18,Fluorocarbon (FKM),A - Excellent,Iodine
+19,Hastelloy-C®,A - Excellent,Iodine
+20,Hypalon®,D - Poor,Iodine
+21,Hytrel®,B - Good,Iodine
+22,Kalrez,A - Excellent,Iodine
+23,Kel-F®,A - Excellent,Iodine
+24,LDPE,A1 - Excellent,Iodine
+25,Natural rubber,D - Poor,Iodine
+26,Neoprene,D - Poor,Iodine
+27,NORYL®,C1 - Fair,Iodine
+28,Nylon,A - Excellent,Iodine
+29,Polycarbonate,N/A,Iodine
+30,Polyetherether Ketone (PEEK),C - Fair,Iodine
+31,Polypropylene,C - Fair,Iodine
+32,Polyurethane,D - Poor,Iodine
+33,PPS (Ryton®),D - Poor,Iodine
+34,PTFE,A - Excellent,Iodine
+35,PVC,A - Excellent,Iodine
+36,PVDF (Kynar®),A2 - Excellent,Iodine
+37,Silicone,N/A,Iodine
+38,stainless steel - 304,D - Poor,Iodine
+39,stainless steel - 316,D - Poor,Iodine
+40,Titanium,A - Excellent,Iodine
+41,Tygon®,A - Excellent,Iodine
+42,Viton®,A - Excellent,Iodine

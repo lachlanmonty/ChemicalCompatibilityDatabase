@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Fluorine
+1,ABS plastic,A1 - Excellent,Fluorine
+2,Acetal (Delrin®),D - Poor,Fluorine
+3,Aluminum,A - Excellent,Fluorine
+4,Brass,A - Excellent,Fluorine
+5,Bronze,C - Fair,Fluorine
+6,Buna N (Nitrile),D - Poor,Fluorine
+7,Carbon graphite,C - Fair,Fluorine
+8,Carbon Steel,D - Poor,Fluorine
+9,Carpenter 20,D - Poor,Fluorine
+10,Cast iron,D - Poor,Fluorine
+11,Ceramic Al203,N/A,Fluorine
+12,Ceramic magnet,A - Excellent,Fluorine
+13,ChemRaz (FFKM),B - Good,Fluorine
+14,Copper,C - Fair,Fluorine
+15,CPVC,D - Poor,Fluorine
+16,EPDM,A1 - Excellent,Fluorine
+17,Epoxy,A1 - Excellent,Fluorine
+18,Fluorocarbon (FKM),B - Good,Fluorine
+19,Hastelloy-C®,B1 - Good,Fluorine
+20,Hypalon®,N/A,Fluorine
+21,Hytrel®,N/A,Fluorine
+22,Kalrez,B - Good,Fluorine
+23,Kel-F®,A - Excellent,Fluorine
+24,LDPE,D - Poor,Fluorine
+25,Natural rubber,C - Fair,Fluorine
+26,Neoprene,N/A,Fluorine
+27,NORYL®,N/A,Fluorine
+28,Nylon,D - Poor,Fluorine
+29,Polycarbonate,C - Fair,Fluorine
+30,Polyetherether Ketone (PEEK),D - Poor,Fluorine
+31,Polypropylene,D - Poor,Fluorine
+32,Polyurethane,D - Poor,Fluorine
+33,PPS (Ryton®),D - Poor,Fluorine
+34,PTFE,D - Poor,Fluorine
+35,PVC,D - Poor,Fluorine
+36,PVDF (Kynar®),A1 - Excellent,Fluorine
+37,Silicone,D - Poor,Fluorine
+38,stainless steel - 304,C - Fair,Fluorine
+39,stainless steel - 316,A - Excellent,Fluorine
+40,Titanium,D - Poor,Fluorine
+41,Tygon®,N/A,Fluorine
+42,Viton®,C - Fair,Fluorine

@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Perchloroethylene
+1,ABS plastic,D - Poor,Perchloroethylene
+2,Acetal (Delrin®),B - Good,Perchloroethylene
+3,Aluminum,C - Fair,Perchloroethylene
+4,Brass,N/A,Perchloroethylene
+5,Bronze,B - Good,Perchloroethylene
+6,Buna N (Nitrile),C - Fair,Perchloroethylene
+7,Carbon graphite,A - Excellent,Perchloroethylene
+8,Carbon Steel,A - Excellent,Perchloroethylene
+9,Carpenter 20,D - Poor,Perchloroethylene
+10,Cast iron,A - Excellent,Perchloroethylene
+11,Ceramic Al203,A - Excellent,Perchloroethylene
+12,Ceramic magnet,N/A,Perchloroethylene
+13,ChemRaz (FFKM),A - Excellent,Perchloroethylene
+14,Copper,B - Good,Perchloroethylene
+15,CPVC,C1 - Fair,Perchloroethylene
+16,EPDM,D - Poor,Perchloroethylene
+17,Epoxy,D - Poor,Perchloroethylene
+18,Fluorocarbon (FKM),A - Excellent,Perchloroethylene
+19,Hastelloy-C®,B - Good,Perchloroethylene
+20,Hypalon®,D - Poor,Perchloroethylene
+21,Hytrel®,C - Fair,Perchloroethylene
+22,Kalrez,A - Excellent,Perchloroethylene
+23,Kel-F®,A - Excellent,Perchloroethylene
+24,LDPE,D - Poor,Perchloroethylene
+25,Natural rubber,D - Poor,Perchloroethylene
+26,Neoprene,D - Poor,Perchloroethylene
+27,NORYL®,D - Poor,Perchloroethylene
+28,Nylon,C1 - Fair,Perchloroethylene
+29,Polycarbonate,D - Poor,Perchloroethylene
+30,Polyetherether Ketone (PEEK),A - Excellent,Perchloroethylene
+31,Polypropylene,D - Poor,Perchloroethylene
+32,Polyurethane,D - Poor,Perchloroethylene
+33,PPS (Ryton®),A - Excellent,Perchloroethylene
+34,PTFE,A - Excellent,Perchloroethylene
+35,PVC,C1 - Fair,Perchloroethylene
+36,PVDF (Kynar®),A - Excellent,Perchloroethylene
+37,Silicone,D - Poor,Perchloroethylene
+38,stainless steel - 304,B - Good,Perchloroethylene
+39,stainless steel - 316,A1 - Excellent,Perchloroethylene
+40,Titanium,A - Excellent,Perchloroethylene
+41,Tygon®,C - Fair,Perchloroethylene
+42,Viton®,A - Excellent,Perchloroethylene

@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Molasses
+1,ABS plastic,B - Good,Molasses
+2,Acetal (Delrin®),A - Excellent,Molasses
+3,Aluminum,A - Excellent,Molasses
+4,Brass,B - Good,Molasses
+5,Bronze,A - Excellent,Molasses
+6,Buna N (Nitrile),A - Excellent,Molasses
+7,Carbon graphite,A - Excellent,Molasses
+8,Carbon Steel,B - Good,Molasses
+9,Carpenter 20,D - Poor,Molasses
+10,Cast iron,B - Good,Molasses
+11,Ceramic Al203,A - Excellent,Molasses
+12,Ceramic magnet,A - Excellent,Molasses
+13,ChemRaz (FFKM),N/A,Molasses
+14,Copper,A - Excellent,Molasses
+15,CPVC,A - Excellent,Molasses
+16,EPDM,A1 - Excellent,Molasses
+17,Epoxy,A - Excellent,Molasses
+18,Fluorocarbon (FKM),A - Excellent,Molasses
+19,Hastelloy-C®,A - Excellent,Molasses
+20,Hypalon®,N/A,Molasses
+21,Hytrel®,N/A,Molasses
+22,Kalrez,N/A,Molasses
+23,Kel-F®,A - Excellent,Molasses
+24,LDPE,A - Excellent,Molasses
+25,Natural rubber,A - Excellent,Molasses
+26,Neoprene,A - Excellent,Molasses
+27,NORYL®,A2 - Excellent,Molasses
+28,Nylon,A1 - Excellent,Molasses
+29,Polycarbonate,N/A,Molasses
+30,Polyetherether Ketone (PEEK),A - Excellent,Molasses
+31,Polypropylene,B - Good,Molasses
+32,Polyurethane,B - Good,Molasses
+33,PPS (Ryton®),N/A,Molasses
+34,PTFE,A - Excellent,Molasses
+35,PVC,A - Excellent,Molasses
+36,PVDF (Kynar®),B1 - Good,Molasses
+37,Silicone,N/A,Molasses
+38,stainless steel - 304,A - Excellent,Molasses
+39,stainless steel - 316,A - Excellent,Molasses
+40,Titanium,A - Excellent,Molasses
+41,Tygon®,B - Good,Molasses
+42,Viton®,A - Excellent,Molasses

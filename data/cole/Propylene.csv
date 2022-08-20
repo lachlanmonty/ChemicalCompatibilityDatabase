@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Propylene
+1,ABS plastic,B - Good,Propylene
+2,Acetal (Delrin®),N/A,Propylene
+3,Aluminum,A - Excellent,Propylene
+4,Brass,N/A,Propylene
+5,Bronze,N/A,Propylene
+6,Buna N (Nitrile),D - Poor,Propylene
+7,Carbon graphite,A2 - Excellent,Propylene
+8,Carbon Steel,A - Excellent,Propylene
+9,Carpenter 20,A - Excellent,Propylene
+10,Cast iron,A - Excellent,Propylene
+11,Ceramic Al203,N/A,Propylene
+12,Ceramic magnet,N/A,Propylene
+13,ChemRaz (FFKM),A - Excellent,Propylene
+14,Copper,A - Excellent,Propylene
+15,CPVC,N/A,Propylene
+16,EPDM,D - Poor,Propylene
+17,Epoxy,N/A,Propylene
+18,Fluorocarbon (FKM),A - Excellent,Propylene
+19,Hastelloy-C®,N/A,Propylene
+20,Hypalon®,D - Poor,Propylene
+21,Hytrel®,N/A,Propylene
+22,Kalrez,A - Excellent,Propylene
+23,Kel-F®,N/A,Propylene
+24,LDPE,N/A,Propylene
+25,Natural rubber,D - Poor,Propylene
+26,Neoprene,D - Poor,Propylene
+27,NORYL®,N/A,Propylene
+28,Nylon,N/A,Propylene
+29,Polycarbonate,N/A,Propylene
+30,Polyetherether Ketone (PEEK),N/A,Propylene
+31,Polypropylene,N/A,Propylene
+32,Polyurethane,D - Poor,Propylene
+33,PPS (Ryton®),N/A,Propylene
+34,PTFE,A2 - Excellent,Propylene
+35,PVC,B1 - Good,Propylene
+36,PVDF (Kynar®),N/A,Propylene
+37,Silicone,D - Poor,Propylene
+38,stainless steel - 304,B1 - Good,Propylene
+39,stainless steel - 316,A1 - Excellent,Propylene
+40,Titanium,N/A,Propylene
+41,Tygon®,B1 - Good,Propylene
+42,Viton®,A1 - Excellent,Propylene

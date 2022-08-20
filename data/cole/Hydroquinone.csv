@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Hydroquinone
+1,ABS plastic,D - Poor,Hydroquinone
+2,Acetal (Delrin®),A - Excellent,Hydroquinone
+3,Aluminum,B - Good,Hydroquinone
+4,Brass,N/A,Hydroquinone
+5,Bronze,N/A,Hydroquinone
+6,Buna N (Nitrile),D - Poor,Hydroquinone
+7,Carbon graphite,A - Excellent,Hydroquinone
+8,Carbon Steel,N/A,Hydroquinone
+9,Carpenter 20,N/A,Hydroquinone
+10,Cast iron,N/A,Hydroquinone
+11,Ceramic Al203,N/A,Hydroquinone
+12,Ceramic magnet,A - Excellent,Hydroquinone
+13,ChemRaz (FFKM),B - Good,Hydroquinone
+14,Copper,B - Good,Hydroquinone
+15,CPVC,A - Excellent,Hydroquinone
+16,EPDM,D - Poor,Hydroquinone
+17,Epoxy,N/A,Hydroquinone
+18,Fluorocarbon (FKM),B - Good,Hydroquinone
+19,Hastelloy-C®,B - Good,Hydroquinone
+20,Hypalon®,D - Poor,Hydroquinone
+21,Hytrel®,N/A,Hydroquinone
+22,Kalrez,A - Excellent,Hydroquinone
+23,Kel-F®,N/A,Hydroquinone
+24,LDPE,A - Excellent,Hydroquinone
+25,Natural rubber,A - Excellent,Hydroquinone
+26,Neoprene,A - Excellent,Hydroquinone
+27,NORYL®,N/A,Hydroquinone
+28,Nylon,D - Poor,Hydroquinone
+29,Polycarbonate,N/A,Hydroquinone
+30,Polyetherether Ketone (PEEK),N/A,Hydroquinone
+31,Polypropylene,A - Excellent,Hydroquinone
+32,Polyurethane,N/A,Hydroquinone
+33,PPS (Ryton®),N/A,Hydroquinone
+34,PTFE,A - Excellent,Hydroquinone
+35,PVC,B - Good,Hydroquinone
+36,PVDF (Kynar®),N/A,Hydroquinone
+37,Silicone,N/A,Hydroquinone
+38,stainless steel - 304,B - Good,Hydroquinone
+39,stainless steel - 316,B - Good,Hydroquinone
+40,Titanium,B - Good,Hydroquinone
+41,Tygon®,N/A,Hydroquinone
+42,Viton®,B - Good,Hydroquinone

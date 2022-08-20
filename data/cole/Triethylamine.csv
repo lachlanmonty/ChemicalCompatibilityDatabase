@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Triethylamine
+1,ABS plastic,B - Good,Triethylamine
+2,Acetal (Delrin®),C - Fair,Triethylamine
+3,Aluminum,D - Poor,Triethylamine
+4,Brass,N/A,Triethylamine
+5,Bronze,A2 - Excellent,Triethylamine
+6,Buna N (Nitrile),D - Poor,Triethylamine
+7,Carbon graphite,A - Excellent,Triethylamine
+8,Carbon Steel,A - Excellent,Triethylamine
+9,Carpenter 20,A - Excellent,Triethylamine
+10,Cast iron,B - Good,Triethylamine
+11,Ceramic Al203,D - Poor,Triethylamine
+12,Ceramic magnet,N/A,Triethylamine
+13,ChemRaz (FFKM),A - Excellent,Triethylamine
+14,Copper,B - Good,Triethylamine
+15,CPVC,D - Poor,Triethylamine
+16,EPDM,A - Excellent,Triethylamine
+17,Epoxy,A - Excellent,Triethylamine
+18,Fluorocarbon (FKM),A - Excellent,Triethylamine
+19,Hastelloy-C®,A - Excellent,Triethylamine
+20,Hypalon®,D - Poor,Triethylamine
+21,Hytrel®,N/A,Triethylamine
+22,Kalrez,A - Excellent,Triethylamine
+23,Kel-F®,N/A,Triethylamine
+24,LDPE,B1 - Good,Triethylamine
+25,Natural rubber,B - Good,Triethylamine
+26,Neoprene,C - Fair,Triethylamine
+27,NORYL®,A - Excellent,Triethylamine
+28,Nylon,A2 - Excellent,Triethylamine
+29,Polycarbonate,N/A,Triethylamine
+30,Polyetherether Ketone (PEEK),N/A,Triethylamine
+31,Polypropylene,A1 - Excellent,Triethylamine
+32,Polyurethane,D - Poor,Triethylamine
+33,PPS (Ryton®),N/A,Triethylamine
+34,PTFE,A - Excellent,Triethylamine
+35,PVC,D - Poor,Triethylamine
+36,PVDF (Kynar®),D - Poor,Triethylamine
+37,Silicone,C - Fair,Triethylamine
+38,stainless steel - 304,B - Good,Triethylamine
+39,stainless steel - 316,B - Good,Triethylamine
+40,Titanium,B - Good,Triethylamine
+41,Tygon®,D - Poor,Triethylamine
+42,Viton®,A2 - Excellent,Triethylamine

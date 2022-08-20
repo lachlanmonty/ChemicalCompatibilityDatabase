@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Ethanol
+1,ABS plastic,B1 - Good,Ethanol
+2,Acetal (Delrin®),A1 - Excellent,Ethanol
+3,Aluminum,B - Good,Ethanol
+4,Brass,A - Excellent,Ethanol
+5,Bronze,A - Excellent,Ethanol
+6,Buna N (Nitrile),C - Fair,Ethanol
+7,Carbon graphite,A - Excellent,Ethanol
+8,Carbon Steel,B - Good,Ethanol
+9,Carpenter 20,A - Excellent,Ethanol
+10,Cast iron,B - Good,Ethanol
+11,Ceramic Al203,A - Excellent,Ethanol
+12,Ceramic magnet,N/A,Ethanol
+13,ChemRaz (FFKM),A - Excellent,Ethanol
+14,Copper,A - Excellent,Ethanol
+15,CPVC,B - Good,Ethanol
+16,EPDM,A - Excellent,Ethanol
+17,Epoxy,A2 - Excellent,Ethanol
+18,Fluorocarbon (FKM),B - Good,Ethanol
+19,Hastelloy-C®,A - Excellent,Ethanol
+20,Hypalon®,A - Excellent,Ethanol
+21,Hytrel®,N/A,Ethanol
+22,Kalrez,A - Excellent,Ethanol
+23,Kel-F®,A - Excellent,Ethanol
+24,LDPE,B - Good,Ethanol
+25,Natural rubber,A - Excellent,Ethanol
+26,Neoprene,A - Excellent,Ethanol
+27,NORYL®,A1 - Excellent,Ethanol
+28,Nylon,A1 - Excellent,Ethanol
+29,Polycarbonate,B2 - Good,Ethanol
+30,Polyetherether Ketone (PEEK),A - Excellent,Ethanol
+31,Polypropylene,A - Excellent,Ethanol
+32,Polyurethane,D - Poor,Ethanol
+33,PPS (Ryton®),N/A,Ethanol
+34,PTFE,A - Excellent,Ethanol
+35,PVC,C - Fair,Ethanol
+36,PVDF (Kynar®),N/A,Ethanol
+37,Silicone,B - Good,Ethanol
+38,stainless steel - 304,A - Excellent,Ethanol
+39,stainless steel - 316,A - Excellent,Ethanol
+40,Titanium,A - Excellent,Ethanol
+41,Tygon®,C - Fair,Ethanol
+42,Viton®,A - Excellent,Ethanol

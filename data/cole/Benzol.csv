@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Benzol
+1,ABS plastic,D - Poor,Benzol
+2,Acetal (Delrin®),A - Excellent,Benzol
+3,Aluminum,B1 - Good,Benzol
+4,Brass,N/A,Benzol
+5,Bronze,A - Excellent,Benzol
+6,Buna N (Nitrile),D - Poor,Benzol
+7,Carbon graphite,A - Excellent,Benzol
+8,Carbon Steel,B - Good,Benzol
+9,Carpenter 20,A - Excellent,Benzol
+10,Cast iron,A - Excellent,Benzol
+11,Ceramic Al203,A - Excellent,Benzol
+12,Ceramic magnet,A - Excellent,Benzol
+13,ChemRaz (FFKM),A - Excellent,Benzol
+14,Copper,B - Good,Benzol
+15,CPVC,N/A,Benzol
+16,EPDM,D - Poor,Benzol
+17,Epoxy,A1 - Excellent,Benzol
+18,Fluorocarbon (FKM),B - Good,Benzol
+19,Hastelloy-C®,B - Good,Benzol
+20,Hypalon®,D - Poor,Benzol
+21,Hytrel®,C - Fair,Benzol
+22,Kalrez,A - Excellent,Benzol
+23,Kel-F®,A - Excellent,Benzol
+24,LDPE,C1 - Fair,Benzol
+25,Natural rubber,D - Poor,Benzol
+26,Neoprene,D - Poor,Benzol
+27,NORYL®,B - Good,Benzol
+28,Nylon,D - Poor,Benzol
+29,Polycarbonate,D - Poor,Benzol
+30,Polyetherether Ketone (PEEK),N/A,Benzol
+31,Polypropylene,B - Good,Benzol
+32,Polyurethane,D - Poor,Benzol
+33,PPS (Ryton®),A - Excellent,Benzol
+34,PTFE,A - Excellent,Benzol
+35,PVC,N/A,Benzol
+36,PVDF (Kynar®),A - Excellent,Benzol
+37,Silicone,D - Poor,Benzol
+38,stainless steel - 304,A1 - Excellent,Benzol
+39,stainless steel - 316,A1 - Excellent,Benzol
+40,Titanium,A - Excellent,Benzol
+41,Tygon®,C1 - Fair,Benzol
+42,Viton®,A - Excellent,Benzol

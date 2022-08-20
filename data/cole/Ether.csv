@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Ether
+1,ABS plastic,D - Poor,Ether
+2,Acetal (Delrin®),A1 - Excellent,Ether
+3,Aluminum,B1 - Good,Ether
+4,Brass,B1 - Good,Ether
+5,Bronze,A - Excellent,Ether
+6,Buna N (Nitrile),D - Poor,Ether
+7,Carbon graphite,A - Excellent,Ether
+8,Carbon Steel,B - Good,Ether
+9,Carpenter 20,A - Excellent,Ether
+10,Cast iron,C - Fair,Ether
+11,Ceramic Al203,N/A,Ether
+12,Ceramic magnet,N/A,Ether
+13,ChemRaz (FFKM),A - Excellent,Ether
+14,Copper,A - Excellent,Ether
+15,CPVC,D - Poor,Ether
+16,EPDM,C - Fair,Ether
+17,Epoxy,A1 - Excellent,Ether
+18,Fluorocarbon (FKM),D - Poor,Ether
+19,Hastelloy-C®,B1 - Good,Ether
+20,Hypalon®,D - Poor,Ether
+21,Hytrel®,N/A,Ether
+22,Kalrez,A - Excellent,Ether
+23,Kel-F®,B1 - Good,Ether
+24,LDPE,D - Poor,Ether
+25,Natural rubber,D - Poor,Ether
+26,Neoprene,D - Poor,Ether
+27,NORYL®,D - Poor,Ether
+28,Nylon,A - Excellent,Ether
+29,Polycarbonate,N/A,Ether
+30,Polyetherether Ketone (PEEK),A - Excellent,Ether
+31,Polypropylene,D - Poor,Ether
+32,Polyurethane,D - Poor,Ether
+33,PPS (Ryton®),A - Excellent,Ether
+34,PTFE,A - Excellent,Ether
+35,PVC,D - Poor,Ether
+36,PVDF (Kynar®),B1 - Good,Ether
+37,Silicone,D - Poor,Ether
+38,stainless steel - 304,A - Excellent,Ether
+39,stainless steel - 316,A - Excellent,Ether
+40,Titanium,A1 - Excellent,Ether
+41,Tygon®,C - Fair,Ether
+42,Viton®,C - Fair,Ether

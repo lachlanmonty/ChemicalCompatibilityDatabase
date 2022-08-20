@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Nitrobenzene
+1,ABS plastic,D - Poor,Nitrobenzene
+2,Acetal (Delrin®),D - Poor,Nitrobenzene
+3,Aluminum,D - Poor,Nitrobenzene
+4,Brass,D - Poor,Nitrobenzene
+5,Bronze,D - Poor,Nitrobenzene
+6,Buna N (Nitrile),D - Poor,Nitrobenzene
+7,Carbon graphite,D - Poor,Nitrobenzene
+8,Carbon Steel,D - Poor,Nitrobenzene
+9,Carpenter 20,D - Poor,Nitrobenzene
+10,Cast iron,D - Poor,Nitrobenzene
+11,Ceramic Al203,A - Excellent,Nitrobenzene
+12,Ceramic magnet,C - Fair,Nitrobenzene
+13,ChemRaz (FFKM),B - Good,Nitrobenzene
+14,Copper,D - Poor,Nitrobenzene
+15,CPVC,D - Poor,Nitrobenzene
+16,EPDM,D - Poor,Nitrobenzene
+17,Epoxy,D - Poor,Nitrobenzene
+18,Fluorocarbon (FKM),A - Excellent,Nitrobenzene
+19,Hastelloy-C®,B1 - Good,Nitrobenzene
+20,Hypalon®,D - Poor,Nitrobenzene
+21,Hytrel®,D - Poor,Nitrobenzene
+22,Kalrez,A - Excellent,Nitrobenzene
+23,Kel-F®,A1 - Excellent,Nitrobenzene
+24,LDPE,C1 - Fair,Nitrobenzene
+25,Natural rubber,D - Poor,Nitrobenzene
+26,Neoprene,D - Poor,Nitrobenzene
+27,NORYL®,B1 - Good,Nitrobenzene
+28,Nylon,D - Poor,Nitrobenzene
+29,Polycarbonate,C1 - Fair,Nitrobenzene
+30,Polyetherether Ketone (PEEK),D - Poor,Nitrobenzene
+31,Polypropylene,D - Poor,Nitrobenzene
+32,Polyurethane,D - Poor,Nitrobenzene
+33,PPS (Ryton®),C - Fair,Nitrobenzene
+34,PTFE,A - Excellent,Nitrobenzene
+35,PVC,B1 - Good,Nitrobenzene
+36,PVDF (Kynar®),A1 - Excellent,Nitrobenzene
+37,Silicone,D - Poor,Nitrobenzene
+38,stainless steel - 304,A1 - Excellent,Nitrobenzene
+39,stainless steel - 316,A1 - Excellent,Nitrobenzene
+40,Titanium,A1 - Excellent,Nitrobenzene
+41,Tygon®,D - Poor,Nitrobenzene
+42,Viton®,A - Excellent,Nitrobenzene

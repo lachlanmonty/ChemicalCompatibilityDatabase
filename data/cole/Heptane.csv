@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Heptane
+1,ABS plastic,D - Poor,Heptane
+2,Acetal (Delrin®),A - Excellent,Heptane
+3,Aluminum,A - Excellent,Heptane
+4,Brass,A - Excellent,Heptane
+5,Bronze,A - Excellent,Heptane
+6,Buna N (Nitrile),A - Excellent,Heptane
+7,Carbon graphite,A - Excellent,Heptane
+8,Carbon Steel,A - Excellent,Heptane
+9,Carpenter 20,A - Excellent,Heptane
+10,Cast iron,A - Excellent,Heptane
+11,Ceramic Al203,N/A,Heptane
+12,Ceramic magnet,N/A,Heptane
+13,ChemRaz (FFKM),N/A,Heptane
+14,Copper,A - Excellent,Heptane
+15,CPVC,A - Excellent,Heptane
+16,EPDM,D - Poor,Heptane
+17,Epoxy,A - Excellent,Heptane
+18,Fluorocarbon (FKM),A - Excellent,Heptane
+19,Hastelloy-C®,A - Excellent,Heptane
+20,Hypalon®,B - Good,Heptane
+21,Hytrel®,N/A,Heptane
+22,Kalrez,N/A,Heptane
+23,Kel-F®,A - Excellent,Heptane
+24,LDPE,B1 - Good,Heptane
+25,Natural rubber,D - Poor,Heptane
+26,Neoprene,B - Good,Heptane
+27,NORYL®,B - Good,Heptane
+28,Nylon,A - Excellent,Heptane
+29,Polycarbonate,B - Good,Heptane
+30,Polyetherether Ketone (PEEK),A - Excellent,Heptane
+31,Polypropylene,C2 - Fair,Heptane
+32,Polyurethane,N/A,Heptane
+33,PPS (Ryton®),A - Excellent,Heptane
+34,PTFE,A - Excellent,Heptane
+35,PVC,C1 - Fair,Heptane
+36,PVDF (Kynar®),A - Excellent,Heptane
+37,Silicone,D - Poor,Heptane
+38,stainless steel - 304,A - Excellent,Heptane
+39,stainless steel - 316,A - Excellent,Heptane
+40,Titanium,A - Excellent,Heptane
+41,Tygon®,B - Good,Heptane
+42,Viton®,A - Excellent,Heptane

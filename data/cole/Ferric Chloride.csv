@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Ferric Chloride
+1,ABS plastic,A - Excellent,Ferric Chloride
+2,Acetal (Delrin®),D - Poor,Ferric Chloride
+3,Aluminum,D - Poor,Ferric Chloride
+4,Brass,D - Poor,Ferric Chloride
+5,Bronze,D - Poor,Ferric Chloride
+6,Buna N (Nitrile),A - Excellent,Ferric Chloride
+7,Carbon graphite,A - Excellent,Ferric Chloride
+8,Carbon Steel,D - Poor,Ferric Chloride
+9,Carpenter 20,D - Poor,Ferric Chloride
+10,Cast iron,D - Poor,Ferric Chloride
+11,Ceramic Al203,N/A,Ferric Chloride
+12,Ceramic magnet,N/A,Ferric Chloride
+13,ChemRaz (FFKM),A - Excellent,Ferric Chloride
+14,Copper,D - Poor,Ferric Chloride
+15,CPVC,A - Excellent,Ferric Chloride
+16,EPDM,A - Excellent,Ferric Chloride
+17,Epoxy,A - Excellent,Ferric Chloride
+18,Fluorocarbon (FKM),A - Excellent,Ferric Chloride
+19,Hastelloy-C®,B2 - Good,Ferric Chloride
+20,Hypalon®,B - Good,Ferric Chloride
+21,Hytrel®,C - Fair,Ferric Chloride
+22,Kalrez,A - Excellent,Ferric Chloride
+23,Kel-F®,A1 - Excellent,Ferric Chloride
+24,LDPE,A1 - Excellent,Ferric Chloride
+25,Natural rubber,A - Excellent,Ferric Chloride
+26,Neoprene,B - Good,Ferric Chloride
+27,NORYL®,A2 - Excellent,Ferric Chloride
+28,Nylon,A - Excellent,Ferric Chloride
+29,Polycarbonate,A2 - Excellent,Ferric Chloride
+30,Polyetherether Ketone (PEEK),B - Good,Ferric Chloride
+31,Polypropylene,A - Excellent,Ferric Chloride
+32,Polyurethane,A - Excellent,Ferric Chloride
+33,PPS (Ryton®),A - Excellent,Ferric Chloride
+34,PTFE,A - Excellent,Ferric Chloride
+35,PVC,A - Excellent,Ferric Chloride
+36,PVDF (Kynar®),A - Excellent,Ferric Chloride
+37,Silicone,B - Good,Ferric Chloride
+38,stainless steel - 304,D - Poor,Ferric Chloride
+39,stainless steel - 316,D - Poor,Ferric Chloride
+40,Titanium,A - Excellent,Ferric Chloride
+41,Tygon®,B - Good,Ferric Chloride
+42,Viton®,A - Excellent,Ferric Chloride

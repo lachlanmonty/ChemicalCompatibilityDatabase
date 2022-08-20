@@ -40,7 +40,7 @@ for chemical in chemicals:
     button_select = browser.find_elements("xpath", button)
 
     button_select[0].click()
-    time.sleep(1)
+    time.sleep(5)
     soup_chem = BeautifulSoup(browser.page_source, "html.parser")
 
     table = soup_chem.find("table")
@@ -61,3 +61,4 @@ for chemical in chemicals:
 
 
 cole_data = pd.concat(dfs)
+cole_data.to_csv("cole_data.csv")

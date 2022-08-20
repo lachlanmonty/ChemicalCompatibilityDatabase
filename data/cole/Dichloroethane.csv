@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Dichloroethane
+1,ABS plastic,D - Poor,Dichloroethane
+2,Acetal (Delrin®),A1 - Excellent,Dichloroethane
+3,Aluminum,B1 - Good,Dichloroethane
+4,Brass,B - Good,Dichloroethane
+5,Bronze,D - Poor,Dichloroethane
+6,Buna N (Nitrile),D - Poor,Dichloroethane
+7,Carbon graphite,A - Excellent,Dichloroethane
+8,Carbon Steel,D - Poor,Dichloroethane
+9,Carpenter 20,N/A,Dichloroethane
+10,Cast iron,N/A,Dichloroethane
+11,Ceramic Al203,A - Excellent,Dichloroethane
+12,Ceramic magnet,N/A,Dichloroethane
+13,ChemRaz (FFKM),A - Excellent,Dichloroethane
+14,Copper,A - Excellent,Dichloroethane
+15,CPVC,D - Poor,Dichloroethane
+16,EPDM,N/A,Dichloroethane
+17,Epoxy,D - Poor,Dichloroethane
+18,Fluorocarbon (FKM),B - Good,Dichloroethane
+19,Hastelloy-C®,A - Excellent,Dichloroethane
+20,Hypalon®,C - Fair,Dichloroethane
+21,Hytrel®,N/A,Dichloroethane
+22,Kalrez,A - Excellent,Dichloroethane
+23,Kel-F®,A2 - Excellent,Dichloroethane
+24,LDPE,C1 - Fair,Dichloroethane
+25,Natural rubber,D - Poor,Dichloroethane
+26,Neoprene,D - Poor,Dichloroethane
+27,NORYL®,A1 - Excellent,Dichloroethane
+28,Nylon,A1 - Excellent,Dichloroethane
+29,Polycarbonate,D - Poor,Dichloroethane
+30,Polyetherether Ketone (PEEK),A - Excellent,Dichloroethane
+31,Polypropylene,D - Poor,Dichloroethane
+32,Polyurethane,D - Poor,Dichloroethane
+33,PPS (Ryton®),N/A,Dichloroethane
+34,PTFE,A1 - Excellent,Dichloroethane
+35,PVC,D - Poor,Dichloroethane
+36,PVDF (Kynar®),A - Excellent,Dichloroethane
+37,Silicone,N/A,Dichloroethane
+38,stainless steel - 304,B - Good,Dichloroethane
+39,stainless steel - 316,B - Good,Dichloroethane
+40,Titanium,B1 - Good,Dichloroethane
+41,Tygon®,D - Poor,Dichloroethane
+42,Viton®,C - Fair,Dichloroethane

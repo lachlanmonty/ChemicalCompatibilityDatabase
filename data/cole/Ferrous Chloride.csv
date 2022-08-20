@@ -1,0 +1,44 @@
+,material,compatibility,chemical
+0,,,Ferrous Chloride
+1,ABS plastic,A2 - Excellent,Ferrous Chloride
+2,Acetal (Delrin®),D - Poor,Ferrous Chloride
+3,Aluminum,D - Poor,Ferrous Chloride
+4,Brass,D - Poor,Ferrous Chloride
+5,Bronze,C1 - Fair,Ferrous Chloride
+6,Buna N (Nitrile),A - Excellent,Ferrous Chloride
+7,Carbon graphite,A - Excellent,Ferrous Chloride
+8,Carbon Steel,D - Poor,Ferrous Chloride
+9,Carpenter 20,C - Fair,Ferrous Chloride
+10,Cast iron,D - Poor,Ferrous Chloride
+11,Ceramic Al203,N/A,Ferrous Chloride
+12,Ceramic magnet,A - Excellent,Ferrous Chloride
+13,ChemRaz (FFKM),A - Excellent,Ferrous Chloride
+14,Copper,B - Good,Ferrous Chloride
+15,CPVC,A - Excellent,Ferrous Chloride
+16,EPDM,N/A,Ferrous Chloride
+17,Epoxy,A - Excellent,Ferrous Chloride
+18,Fluorocarbon (FKM),A - Excellent,Ferrous Chloride
+19,Hastelloy-C®,B1 - Good,Ferrous Chloride
+20,Hypalon®,A - Excellent,Ferrous Chloride
+21,Hytrel®,N/A,Ferrous Chloride
+22,Kalrez,A - Excellent,Ferrous Chloride
+23,Kel-F®,B1 - Good,Ferrous Chloride
+24,LDPE,A2 - Excellent,Ferrous Chloride
+25,Natural rubber,A - Excellent,Ferrous Chloride
+26,Neoprene,A - Excellent,Ferrous Chloride
+27,NORYL®,A2 - Excellent,Ferrous Chloride
+28,Nylon,D - Poor,Ferrous Chloride
+29,Polycarbonate,D - Poor,Ferrous Chloride
+30,Polyetherether Ketone (PEEK),A - Excellent,Ferrous Chloride
+31,Polypropylene,A - Excellent,Ferrous Chloride
+32,Polyurethane,B - Good,Ferrous Chloride
+33,PPS (Ryton®),A - Excellent,Ferrous Chloride
+34,PTFE,A - Excellent,Ferrous Chloride
+35,PVC,A - Excellent,Ferrous Chloride
+36,PVDF (Kynar®),A - Excellent,Ferrous Chloride
+37,Silicone,N/A,Ferrous Chloride
+38,stainless steel - 304,D - Poor,Ferrous Chloride
+39,stainless steel - 316,D - Poor,Ferrous Chloride
+40,Titanium,A - Excellent,Ferrous Chloride
+41,Tygon®,B - Good,Ferrous Chloride
+42,Viton®,A - Excellent,Ferrous Chloride
