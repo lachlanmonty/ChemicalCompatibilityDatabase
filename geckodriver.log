@@ -1,0 +1,130 @@
+1660963752091	geckodriver	INFO	Listening on 127.0.0.1:58583
+1660963755135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58584" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lachlan\\AppData\\Local\\Temp\\rust_mozprofileTCDJTu"
+1660963755751	Marionette	INFO	Marionette enabled
+1660963755757	Marionette	INFO	Listening on port 58594
+WebDriver BiDi listening on ws://localhost:58584
+Read port: 58594
+1660963755895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lachlan\\AppData\\Local\\Temp\\rust_mozprofileTCDJTu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58584/devtools/browser/0d213daa-9544-4801-9f0a-5e621380aeeb
+JavaScript warning: https://www.coleparmer.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1859636020, line 1: unreachable code after return statement
+JavaScript warning: https://www.coleparmer.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1859636020, line 1: unreachable code after return statement
+JavaScript warning: https://www.coleparmer.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1859636020 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn2.gbqofs.com/coleparmer/p/detector-dom.min.js, line 74: asm.js type error: cannot create array view without an asm.js heap parameter
+1660964013044	Marionette	INFO	Stopped listening on port 58594
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 21732, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+al\\Temp\\rust_mozprofilenqZdTB"
+1660964011061	Marionette	INFO	Marionette enabled
+1660964011066	Marionette	INFO	Listening on port 58823
+WebDriver BiDi listening on ws://localhost:58813
+Read port: 58823
+1660964011273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lachlan\\AppData\\Local\\Temp\\rust_mozprofilenqZdTB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58813/devtools/browser/51d28af6-cefd-41cd-84f3-aa703d332792
+JavaScript warning: https://www.coleparmer.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=169104498, line 1: unreachable code after return statement
+JavaScript warning: https://www.coleparmer.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=169104498 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn2.gbqofs.com/coleparmer/p/detector-dom.min.js, line 74: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn2.gbqofs.com/coleparmer/p/detector-dom.min.js, line 74: asm.js type error: cannot create array view without an asm.js heap parameter
+1660964058753	Marionette	INFO	Stopped listening on port 58823
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58934" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lachlan\\AppData\\Local\\Temp\\rust_mozprofileO63ks1"
+1660964041794	Marionette	INFO	Marionette enabled
+1660964041798	Marionette	INFO	Listening on port 58944
+WebDriver BiDi listening on ws://localhost:58934
+Read port: 58944
+1660964042010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lachlan\\AppData\\Local\\Temp\\rust_mozprofileO63ks1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58934/devtools/browser/bdc4ed40-feb8-4ea0-9be0-f2856c4dbc7f
+1660964060660	Marionette	INFO	Stopped listening on port 58944
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660964077884	geckodriver	INFO	Listening on 127.0.0.1:58974
+1660964080911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lachlan\\AppData\\Local\\Temp\\rust_mozprofileopZkTi"
+1660964081304	Marionette	INFO	Marionette enabled
+1660964081309	Marionette	INFO	Listening on port 58985
+WebDriver BiDi listening on ws://localhost:58975
+Read port: 58985
+1660964081429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lachlan\\AppData\\Local\\Temp\\rust_mozprofileopZkTi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58975/devtools/browser/7eaf0682-1f57-49ec-95bc-a6daae29ee08
+JavaScript warning: https://www.coleparmer.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=233195783, line 1: unreachable code after return statement
+JavaScript warning: https://www.coleparmer.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=233195783, line 1: unreachable code after return statement
+JavaScript warning: https://www.coleparmer.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=233195783 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn2.gbqofs.com/coleparmer/p/detector-dom.min.js, line 74: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShJavaScript warning: https://cdn2.gbqofs.com/coleparmer/p/detector-dom.min.js, line 74: asm.js type error: cannot create array view without an asm.js heap parameter
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.coleparmer.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.coleparmer.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.coleparmer.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1660965159229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59668" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lachlan\\AppData\\Local\\Temp\\rust_mozprofile5bIl8C"
+1660965159585	Marionette	INFO	Marionette enabled
+1660965159589	Marionette	INFO	Listening on port 59680
+WebDriver BiDi listening on ws://localhost:59668
+Read port: 59680
+1660965159852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lachlan\\AppData\\Local\\Temp\\rust_mozprofile5bIl8C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59668/devtools/browser/9fe7e36a-bfb0-4e01-97aa-8fe3aaa174d3
+JavaScript warning: https://cdn2.gbqofs.com/coleparmer/p/detector-dom.min.js, line 74: asm.js type error: cannot create array view without an asm.js heap parameter
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.coleparmer.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.coleparmer.com"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.coleparmer.com"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1004))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967298/pagestyle22 (resource://devtools/server/actors/page-style.js:1004:5)", "resource://devtools/shared/protocol/Front.js", 376))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.coleparmer.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.coleparmer.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1660966569600	Marionette	INFO	Stopped listening on port 59680
+[Parent 5964, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 5964, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660966574285	geckodriver	INFO	Listening on 127.0.0.1:60290
+1660966577343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lachlan\\AppData\\Local\\Temp\\rust_mozprofilegUE3n9"
+1660966577745	Marionette	INFO	Marionette enabled
+1660966577750	Marionette	INFO	Listening on port 60301
+WebDriver BiDi listening on ws://localhost:60291
+Read port: 60301
+1660966577966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lachlan\\AppData\\Local\\Temp\\rust_mozprofilegUE3n9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60291/devtools/browser/3f44058a-c479-4496-955a-dbc8e5b716be
+JavaScript warning: https://cdn2.gbqofs.com/coleparmer/p/detector-dom.min.js, line 74: asm.js type error: cannot create array view without an asm.js heap parameter
+1660966596114	Marionette	INFO	Stopped listening on port 60301660966597958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60402" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lachlan\\AppData\\Local\\Temp\\rust_mozprofileVrr912"
+1660966598324	Marionette	INFO	Marionette enabled
+1660966598329	Marionette	INFO	Listening on port 60417
+WebDriver BiDi listening on ws://localhost:60402
+Read port: 60417
+1660966598563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lachlan\\AppData\\Local\\Temp\\rust_mozprofileVrr912\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60402/devtools/browser/72d20540-253a-4396-913e-03292c577a00
+JavaScript warning: https://cdn2.gbqofs.com/coleparmer/p/detector-dom.min.js, line 74: asm.js type error: cannot create array view without an asm.js heap parameter
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.coleparmer.com"
