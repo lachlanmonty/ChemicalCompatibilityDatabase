@@ -74,6 +74,6 @@ dfs = [pd.read_csv(fp) for fp in filenames]
 df = pd.concat(dfs)
 
 df = df.dropna(subset=["compatibility"])
-
+df = df.drop(columns=["Unnamed: 0", "Unnamed: 0.1"])
 
 df.to_csv(f"../data/cole_data.csv")
